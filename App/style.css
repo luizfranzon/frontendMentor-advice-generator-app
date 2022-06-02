@@ -53,6 +53,8 @@ main {
 }
 
 #button {
+    cursor: pointer;
+
     position: relative;
     bottom: 3.5rem;
 
