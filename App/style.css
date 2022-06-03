@@ -68,6 +68,10 @@ main {
     height: 80px;
 }
 
+.dice {
+    width: 40px;
+}
+
 #button {
     transition: 0.2s;
 }
